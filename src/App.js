@@ -8,6 +8,7 @@ function App() {
         <p>
           My site hosting
         </p>
+        <p>After making changes updating git</p>
         <a
           className="App-link"
           href="https://reactjs.org"
